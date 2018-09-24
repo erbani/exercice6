@@ -1,11 +1,52 @@
+/*div va s'appliquer a toutes les div suivantes*/
 div{
-height:50px;
-width:100%;
+float: left;
 }
 
+/*Div se note avec un #*/
+/*class se note avec un.*/
 #cyan{
-  background-color: cyan;
+  background-color: green;
+  height: 50px;
+  width: 80%;
 }
 #blue{
   background-color: blue;
+  height: 50px;
+  width: 20%;
+}
+#red{
+  background-color: red;
+  height: 100px;
+  width: 33%;
+}
+#orange{
+  background-color: orange;
+  height: 50px;
+  width: 33%;
+}
+#grey{
+  background-color: grey;
+  height: 50px;
+  width: 34%;
+}
+#yellow{
+  background-color: yellow;
+  height: 50px;
+  width: 22%;
+}
+#bluem{
+  background-color: cyan;
+  height: 50px;
+  width: 22%;
+}
+#brown{
+  background-color: brown;
+  height: 50px;
+  width: 23%;
+}
+#black{
+  background-color: black;
+  height: 150px;
+  width: 100%;
 }
